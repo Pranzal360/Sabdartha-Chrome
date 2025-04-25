@@ -57,7 +57,7 @@ Sabdartha is a lightweight browser extension that lets you instantly fetch the m
 Clone the repo:
 
 ```bash
-git clone https://github.com/Pranzal360/Sabdartha-Firfox.git
+git clone https://github.com/Pranzal360/Sabdartha-Chrome.git
 ```
 
 ## 🙏 Credits 
